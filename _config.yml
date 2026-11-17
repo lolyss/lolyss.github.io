@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "360 hair"
-  avatar : "/assets/images/photo 1.jpg"
+  avatar : "/assets/images/photo1.jpg"
   bio    : "dear me, first website."
   links:
     - label: "Website"
